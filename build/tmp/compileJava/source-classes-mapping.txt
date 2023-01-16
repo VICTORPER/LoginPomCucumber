@@ -1,4 +1,4 @@
-com/pages/LoginPage.java
- com.pages.LoginPage
 com/steps/stepLogin.java
  com.steps.stepLogin
+com/pages/LoginPage.java
+ com.pages.LoginPage

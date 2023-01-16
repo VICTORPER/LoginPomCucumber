@@ -4,11 +4,11 @@
   <system-out><![CDATA[
 1 Scenarios (?[32m1 passed?[0m)
 3 Steps (?[32m3 passed?[0m)
-0m9,620s
+0m14,841s
 
 
 ]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/QV-4555/Downloads/LoginPOM/src/test/resources/features/login.feature
+  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/QV-4555/Pictures/LoginPomCucumber/src/test/resources/features/login.feature
 [Test worker] INFO  - 
 
 -------------------------------------------------------------------------------------
@@ -26,8 +26,8 @@
 -------------------------------------------------------------------------------------
 
 [Test worker] INFO  - Test Suite Started: Loguearse en la pagina de prueba
-[pool-1-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@68d2fe33: Generating report for test outcome: Loguearse en la pagina de prueba:Login
-[pool-2-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@5f3a2fbd: Generating report for test outcome: Loguearse en la pagina de prueba:Login
-[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Cleanup test resources for URI file:///C:/Users/QV-4555/Downloads/LoginPOM/src/test/resources/features/login.feature
+[pool-1-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@1624398d: Generating report for test outcome: Loguearse en la pagina de prueba:Login
+[pool-2-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@cc851cb: Generating report for test outcome: Loguearse en la pagina de prueba:Login
+[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Cleanup test resources for URI file:///C:/Users/QV-4555/Pictures/LoginPomCucumber/src/test/resources/features/login.feature
 ]]></system-err>
 </testsuite>
