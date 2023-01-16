@@ -3,5 +3,5 @@
 /workspace.xml
 .gradle/
 .idea/
-build/
+build
 gradle/wrapper/
