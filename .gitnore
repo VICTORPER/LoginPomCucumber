@@ -1,0 +1,9 @@
+7 lines (7 sloc)  86 Bytes
+
+# Default ignored files
+/shelf/
+/workspace.xml
+.gradle/
+.idea/
+build/
+gradle/wrapper/
